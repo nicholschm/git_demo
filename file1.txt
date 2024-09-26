@@ -1,1 +1,3 @@
-Nick Schmidt
+John Doe
+8675309
+123 Street
